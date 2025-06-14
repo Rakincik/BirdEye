@@ -1,5 +1,1 @@
-streamlit
-tweepy==4.14.0
-matplotlib
-wordcloud
-openai>=1.0.0
+
